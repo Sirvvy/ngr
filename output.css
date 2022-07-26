@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    background-image: url("./images/marc-olivier-jodoin-NqOInJ-ttqM-unsplash.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 75px;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
